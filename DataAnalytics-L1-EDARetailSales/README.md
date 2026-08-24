@@ -57,8 +57,8 @@ Based on the findings, recommendations are provided for:
 ## 📁 Files
 
 ```text
-Retail-Sales-EDA/
+DataAnalytics-L1-EDARetailSales/
 │
-├── Retail_Sales_EDA.ipynb
+├── OIBSIP Level 1 Task-1 EDA on Retail Sales Data.ipynb
 ├── retail_sales_dataset.csv
 └── README.md
